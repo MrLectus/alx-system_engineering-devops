@@ -1,0 +1,4 @@
+#!/bin/bash
+foo(){
+    local BEST="School"
+}
